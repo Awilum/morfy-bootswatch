@@ -1,2 +1,2 @@
-# morfy-bootswatch
+# Morfy Bootswatch
 Bootswatch themes for Morfy
