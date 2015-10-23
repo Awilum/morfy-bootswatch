@@ -1,0 +1,15 @@
+name: Bootswatch
+version: 1.0.1
+description: Bootswatch Morfy theme
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: https://github.com/Awilum
+homepage: https://github.com/morfy-cms/morfy-theme-bootswatch/
+download: https://github.com/morfy-cms/morfy-theme-bootswatch/releases
+bugs: https://github.com/morfy-cms/morfy-theme-bootswatch/issues
+preview: https://github.com/morfy-cms/morfy-theme-bootswatch/raw/master/screenshot.png
+license: MIT
+
+# Theme settings
+enabled: true
