@@ -1,14 +1,14 @@
 name: Bootswatch
-version: 2.0.0
-description: Bootswatch Morfy theme
+version: 3.0.0
+description: Bootswatch Fansoro theme
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
   url: https://github.com/Awilum
-homepage: https://github.com/morfy-cms/morfy-theme-bootswatch/
-download: https://github.com/morfy-cms/morfy-theme-bootswatch/releases
-bugs: https://github.com/morfy-cms/morfy-theme-bootswatch/issues
-preview: https://github.com/morfy-cms/morfy-theme-bootswatch/raw/master/screenshot.jpg
+homepage: https://github.com/fansoro/morfy-theme-bootswatch/
+download: https://github.com/fansoro/morfy-theme-bootswatch/releases
+bugs: https://github.com/fansoro/morfy-theme-bootswatch/issues
+preview: https://github.com/fansoro/morfy-theme-bootswatch/raw/master/screenshot.jpg
 license: MIT
 
 # Theme settings

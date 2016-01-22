@@ -1,7 +1,7 @@
-# Morfy Bootswatch Themes
+# Fansoro Bootswatch Themes
 ![](screenshot.jpg)
 
-Bootswatch themes for Morfy
+Bootswatch themes for Fansoro
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/bootswatch/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/bootswatch/blob/master/LICENSE)

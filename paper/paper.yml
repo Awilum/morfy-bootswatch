@@ -1,12 +1,12 @@
 name: Paper
 version: 2.0.0
-description: Paper Morfy theme
+description: Paper Fansoro theme
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
   url: http://morfy.org
-homepage: https://github.com/morfy-cms/bootswatch
-bugs: https://github.com/morfy-cms/bootswatch/issues
+homepage: https://github.com/fansoro/bootswatch
+bugs: https://github.com/fansoro/bootswatch/issues
 license: MIT
 
 # Theme settings
